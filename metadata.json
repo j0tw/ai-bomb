@@ -1,0 +1,5 @@
+{
+  "name": "Number Bomb",
+  "description": "A thrilling digital version of the classic Number Bomb game. Guess the number within the shrinking range without triggering the explosion. Features AI-generated forfeits for the loser.",
+  "requestFramePermissions": []
+}
